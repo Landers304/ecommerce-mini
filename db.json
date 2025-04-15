@@ -1,0 +1,47 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": "9519",
+      "name": "Zachary"
+    },
+    {
+      "id": "a477",
+      "name": "sdgfdsuigvuicsd",
+      "email": "iusdgfusdgfui@yahoo.com",
+      "phone": "3485693465934",
+      "address": "sjdgvkhdvkdfgvpd"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 999.99,
+      "description": "A powerful laptop"
+    },
+    {
+      "id": "b6c0",
+      "name": "ps5",
+      "price": "400",
+      "description": "New"
+    }
+  ],
+  "orders": [
+    {
+      "id": "a539",
+      "customerId": 1,
+      "productId": 1
+    },
+    {
+      "id": "7738",
+      "customerId": "9519",
+      "productId": "1",
+      "quantity": 1
+    }
+  ]
+}
