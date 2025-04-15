@@ -1,6 +1,7 @@
 {
   "customers": [
     {
+<<<<<<< HEAD
       "id": 1,
       "name": "John Doe",
       "email": "john@example.com"
@@ -15,10 +16,21 @@
       "email": "iusdgfusdgfui@yahoo.com",
       "phone": "3485693465934",
       "address": "sjdgvkhdvkdfgvpd"
+=======
+      "id": "1",
+      "name": "Peter Parker",
+      "email": "peter@dailybugle.com"
+    },
+    {
+      "id": "2",
+      "name": "Bruce Wayne",
+      "email": "bruce@wayneenterprises.com"
+>>>>>>> 480b2b425fe612e5db4b4b93dffceb754dfb4194
     }
   ],
   "products": [
     {
+<<<<<<< HEAD
       "id": 1,
       "name": "Laptop",
       "price": 999.99,
@@ -29,10 +41,21 @@
       "name": "ps5",
       "price": "400",
       "description": "New"
+=======
+      "id": "1",
+      "name": "Batarang",
+      "price": 99.99
+    },
+    {
+      "id": "2",
+      "name": "Web Shooter",
+      "price": 149.99
+>>>>>>> 480b2b425fe612e5db4b4b93dffceb754dfb4194
     }
   ],
   "orders": [
     {
+<<<<<<< HEAD
       "id": "a539",
       "customerId": 1,
       "productId": 1
@@ -42,6 +65,16 @@
       "customerId": "9519",
       "productId": "1",
       "quantity": 1
+=======
+      "id": "4efc",
+      "customerId": "1",
+      "productId": "2"
+    },
+    {
+      "id": "ea2e",
+      "customerId": "1",
+      "productId": "1"
+>>>>>>> 480b2b425fe612e5db4b4b93dffceb754dfb4194
     }
   ]
 }
